@@ -1,0 +1,26 @@
+C:\Users\Asus\Desktop\C# LAB\LabTask3\LabTask3\bin\Debug\netcoreapp3.1\LabTask3.exe
+C:\Users\Asus\Desktop\C# LAB\LabTask3\LabTask3\bin\Debug\netcoreapp3.1\LabTask3.deps.json
+C:\Users\Asus\Desktop\C# LAB\LabTask3\LabTask3\bin\Debug\netcoreapp3.1\LabTask3.runtimeconfig.json
+C:\Users\Asus\Desktop\C# LAB\LabTask3\LabTask3\bin\Debug\netcoreapp3.1\LabTask3.runtimeconfig.dev.json
+C:\Users\Asus\Desktop\C# LAB\LabTask3\LabTask3\bin\Debug\netcoreapp3.1\LabTask3.dll
+C:\Users\Asus\Desktop\C# LAB\LabTask3\LabTask3\bin\Debug\netcoreapp3.1\LabTask3.pdb
+C:\Users\Asus\Desktop\C# LAB\LabTask3\LabTask3\obj\Debug\netcoreapp3.1\LabTask3.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\C# LAB\LabTask3\LabTask3\obj\Debug\netcoreapp3.1\LabTask3.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\C# LAB\LabTask3\LabTask3\obj\Debug\netcoreapp3.1\LabTask3.AssemblyInfo.cs
+C:\Users\Asus\Desktop\C# LAB\LabTask3\LabTask3\obj\Debug\netcoreapp3.1\LabTask3.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\C# LAB\LabTask3\LabTask3\obj\Debug\netcoreapp3.1\LabTask3.dll
+C:\Users\Asus\Desktop\C# LAB\LabTask3\LabTask3\obj\Debug\netcoreapp3.1\LabTask3.pdb
+C:\Users\Asus\Desktop\C# LAB\LabTask3\LabTask3\obj\Debug\netcoreapp3.1\LabTask3.genruntimeconfig.cache
+C:\Users\USER\Downloads\Documents\oop2LabTasks-master\labTask3\LabTask3\bin\Debug\netcoreapp3.1\LabTask3.exe
+C:\Users\USER\Downloads\Documents\oop2LabTasks-master\labTask3\LabTask3\bin\Debug\netcoreapp3.1\LabTask3.deps.json
+C:\Users\USER\Downloads\Documents\oop2LabTasks-master\labTask3\LabTask3\bin\Debug\netcoreapp3.1\LabTask3.runtimeconfig.json
+C:\Users\USER\Downloads\Documents\oop2LabTasks-master\labTask3\LabTask3\bin\Debug\netcoreapp3.1\LabTask3.runtimeconfig.dev.json
+C:\Users\USER\Downloads\Documents\oop2LabTasks-master\labTask3\LabTask3\bin\Debug\netcoreapp3.1\LabTask3.dll
+C:\Users\USER\Downloads\Documents\oop2LabTasks-master\labTask3\LabTask3\bin\Debug\netcoreapp3.1\LabTask3.pdb
+C:\Users\USER\Downloads\Documents\oop2LabTasks-master\labTask3\LabTask3\obj\Debug\netcoreapp3.1\LabTask3.csprojAssemblyReference.cache
+C:\Users\USER\Downloads\Documents\oop2LabTasks-master\labTask3\LabTask3\obj\Debug\netcoreapp3.1\LabTask3.AssemblyInfoInputs.cache
+C:\Users\USER\Downloads\Documents\oop2LabTasks-master\labTask3\LabTask3\obj\Debug\netcoreapp3.1\LabTask3.AssemblyInfo.cs
+C:\Users\USER\Downloads\Documents\oop2LabTasks-master\labTask3\LabTask3\obj\Debug\netcoreapp3.1\LabTask3.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\Documents\oop2LabTasks-master\labTask3\LabTask3\obj\Debug\netcoreapp3.1\LabTask3.dll
+C:\Users\USER\Downloads\Documents\oop2LabTasks-master\labTask3\LabTask3\obj\Debug\netcoreapp3.1\LabTask3.pdb
+C:\Users\USER\Downloads\Documents\oop2LabTasks-master\labTask3\LabTask3\obj\Debug\netcoreapp3.1\LabTask3.genruntimeconfig.cache
