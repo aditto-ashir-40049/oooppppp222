@@ -1,0 +1,4 @@
+G:\Study\SEMESTER 6\C#\New folder (2)\Mid Assingment\obj\Debug\netcoreapp3.1\Mid Assingment.csprojAssemblyReference.cache
+G:\Study\SEMESTER 6\C#\New folder (2)\Mid Assingment\obj\Debug\netcoreapp3.1\Mid Assingment.AssemblyInfoInputs.cache
+G:\Study\SEMESTER 6\C#\New folder (2)\Mid Assingment\obj\Debug\netcoreapp3.1\Mid Assingment.AssemblyInfo.cs
+G:\Study\SEMESTER 6\C#\New folder (2)\Mid Assingment\obj\Debug\netcoreapp3.1\Mid Assingment.csproj.CoreCompileInputs.cache
