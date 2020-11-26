@@ -1,0 +1,4 @@
+G:\C#\lab 7 interface 3\obj\Debug\netcoreapp3.1\lab 7 interface 3.csprojAssemblyReference.cache
+G:\C#\lab 7 interface 3\obj\Debug\netcoreapp3.1\lab 7 interface 3.AssemblyInfoInputs.cache
+G:\C#\lab 7 interface 3\obj\Debug\netcoreapp3.1\lab 7 interface 3.AssemblyInfo.cs
+G:\C#\lab 7 interface 3\obj\Debug\netcoreapp3.1\lab 7 interface 3.csproj.CoreCompileInputs.cache
