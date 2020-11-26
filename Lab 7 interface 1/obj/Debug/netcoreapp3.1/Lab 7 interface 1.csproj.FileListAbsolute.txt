@@ -1,0 +1,13 @@
+G:\C#\Lab 7 interface 1\bin\Debug\netcoreapp3.1\Lab 7 interface 1.exe
+G:\C#\Lab 7 interface 1\bin\Debug\netcoreapp3.1\Lab 7 interface 1.deps.json
+G:\C#\Lab 7 interface 1\bin\Debug\netcoreapp3.1\Lab 7 interface 1.runtimeconfig.json
+G:\C#\Lab 7 interface 1\bin\Debug\netcoreapp3.1\Lab 7 interface 1.runtimeconfig.dev.json
+G:\C#\Lab 7 interface 1\bin\Debug\netcoreapp3.1\Lab 7 interface 1.dll
+G:\C#\Lab 7 interface 1\bin\Debug\netcoreapp3.1\Lab 7 interface 1.pdb
+G:\C#\Lab 7 interface 1\obj\Debug\netcoreapp3.1\Lab 7 interface 1.csprojAssemblyReference.cache
+G:\C#\Lab 7 interface 1\obj\Debug\netcoreapp3.1\Lab 7 interface 1.AssemblyInfoInputs.cache
+G:\C#\Lab 7 interface 1\obj\Debug\netcoreapp3.1\Lab 7 interface 1.AssemblyInfo.cs
+G:\C#\Lab 7 interface 1\obj\Debug\netcoreapp3.1\Lab 7 interface 1.csproj.CoreCompileInputs.cache
+G:\C#\Lab 7 interface 1\obj\Debug\netcoreapp3.1\Lab 7 interface 1.dll
+G:\C#\Lab 7 interface 1\obj\Debug\netcoreapp3.1\Lab 7 interface 1.pdb
+G:\C#\Lab 7 interface 1\obj\Debug\netcoreapp3.1\Lab 7 interface 1.genruntimeconfig.cache
