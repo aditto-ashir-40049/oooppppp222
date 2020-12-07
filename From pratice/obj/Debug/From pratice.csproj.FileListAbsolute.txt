@@ -1,0 +1,7 @@
+G:\C#\From pratice\obj\Debug\From pratice.csprojAssemblyReference.cache
+G:\C#\From pratice\obj\Debug\From_pratice.Login.resources
+G:\C#\From pratice\obj\Debug\From_pratice.Properties.Resources.resources
+G:\C#\From pratice\obj\Debug\From pratice.csproj.GenerateResource.cache
+G:\C#\From pratice\obj\Debug\From pratice.csproj.CoreCompileInputs.cache
+G:\C#\From pratice\obj\Debug\From_pratice.Dashbox.resources
+G:\C#\From pratice\obj\Debug\From_pratice.Info.resources
